@@ -1,0 +1,2 @@
+DELETE FROM TaskList
+WHERE TaskListID = 1;
